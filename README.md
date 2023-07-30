@@ -14,7 +14,3 @@ You can find the Python code used for this project in the [src folder](/src).
 
 ## Acknowledgments
 Special thanks to [GitHub user mohitgupta-omg](https://github.com/mohitgupta-omg) for providing the SMS Spam Collection Dataset.
-
----
-
-Please note that this project only serves as a learning exercise in applying machine learning algorithms to a specific task.
