@@ -5,7 +5,7 @@ For this project, we aim to predict text messages as "spam" or "not spam" using 
 **Note:** Please refer to the full report in the [docs folder](/docs) for more detailed analysis and interpretation.
 
 ## Code Sample
-You can find the Python code used for this mini project in the [src folder](/src).
+You can find the Python code used for this project in the [src folder](/src).
 
 ## How to Use
 - Clone this repository to your local machine.
