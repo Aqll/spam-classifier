@@ -1,4 +1,4 @@
-# Spam Classifier Project
+# Spam Classifier
 For this project, we try to predict text messages as "spam" or "not spam" using three different machine learning models: Linear Regression, Logistic Regression, and Naive Bayes. The dataset used is sourced from this [GitHub repo](https://github.com/mohitgupta-omg/Kaggle-SMS-Spam-Collection-Dataset-/blob/master/spam.csv). It contains 1999 entries of text messages, each of which is labeled either as "not spam" or "spam". The goal of this project is to demonstrate the efficacy of machine learning algorithms in tackling the challenge of spam detection in real-world scenarios.
 
 We employ the scikit-learn library, a popular machine learning toolkit, to train, test, and validate the performance of each model on the dataset. Through this project, we aim to explore and compare different classification techniques to identify the most suitable model for spam classification tasks.
