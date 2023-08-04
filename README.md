@@ -3,8 +3,8 @@ For this project, we try to predict text messages as "spam" or "not spam" using 
 
 We employ the scikit-learn library, a popular machine learning toolkit, to train, test, and validate the performance of each model on the dataset. Through this project, we aim to explore and compare different classification techniques to identify the most suitable model for spam classification tasks.
 
-<img align = right height = 300 width = 480 src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CS-OYdiRLCBMBiOpEURy0g.png">
-<img height = 300 width = 350 src="https://miro.medium.com/v2/resize:fit:1400/1*fRRH1lt0zQ93u9YcaUiRJQ.gif">
+<img align = right height = 300 width = 470 src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CS-OYdiRLCBMBiOpEURy0g.png">
+<img height = 300 width = 340 src="https://miro.medium.com/v2/resize:fit:1400/1*fRRH1lt0zQ93u9YcaUiRJQ.gif">
 
 
 ## Problem Formulation
