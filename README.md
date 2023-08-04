@@ -3,6 +3,10 @@ For this project, we try to predict text messages as "spam" or "not spam" using 
 
 We employ the scikit-learn library, a popular machine learning toolkit, to train, test, and validate the performance of each model on the dataset. Through this project, we aim to explore and compare different classification techniques to identify the most suitable model for spam classification tasks.
 
+<img align = right height = 300 width = 530 src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CS-OYdiRLCBMBiOpEURy0g.png">
+<img height = 300 src="https://miro.medium.com/v2/resize:fit:1400/1*fRRH1lt0zQ93u9YcaUiRJQ.gif">
+
+
 ## Problem Formulation
 Given the dataset of text messages, the task is to build a binary classification model that predicts whether a message is "spam" (labeled as 1) or "not spam" (labeled as 0). The input to the models are raw text messages, while the output for each input is a binary label indicating the message's classification.
 
